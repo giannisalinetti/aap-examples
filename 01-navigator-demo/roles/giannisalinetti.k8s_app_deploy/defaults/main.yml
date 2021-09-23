@@ -1,0 +1,27 @@
+---
+# defaults file for k8s_app_deploy
+
+# Connection parameters
+api_url: "https://localhost:6443"
+cluster_auth_user: ""
+cluster_auth_password: ""
+
+# Namespace name
+ns_name: "demo-ns"
+
+# Deployment parameters
+app_name: "demo-app"
+app_image: ""
+app_command: []
+app_args: []
+app_replicas: 1
+ports:
+  - 8080
+  - 8443
+
+# Service parameters
+service_name: "demo-svc"
+
+# Roue parameters
+route_hostname: ""
+
