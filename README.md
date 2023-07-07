@@ -1,4 +1,4 @@
-# Ansible Automation Platform 2 Examples
+# Ansible Automation Platform Examples
 
 This repository is a set of examples to demonstrate key features of the Ansible
 Automation Platform.
@@ -11,5 +11,5 @@ Automation Platform.
 Author Information
 ------------------
 Gianni Salinetti
-Red Hat Cloud Solution Architect
+Red Hat Senior Account Solution Architect
 gsalinet@redhat.com
