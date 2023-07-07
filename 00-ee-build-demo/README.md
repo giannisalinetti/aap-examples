@@ -11,5 +11,8 @@ podman tag localhost/custom-ee quay.io/gbsalinetti/custom-ee:latest
 podman push quay.io/gbsalinetti/custom-ee:latest
 ```
 
+After pushing the executions environment image it can be used to test the 
+target automations.
+
 
 

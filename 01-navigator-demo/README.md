@@ -27,8 +27,3 @@ $ ansible-navigator --eei quay.io/gbsalinetti/custom-ee:latest run playbook.yaml
 
 ```
 
-Author Information
-------------------
-Gianni Salinetti
-Red Hat Cloud Solution Architect
-gsalinet@redhat.com

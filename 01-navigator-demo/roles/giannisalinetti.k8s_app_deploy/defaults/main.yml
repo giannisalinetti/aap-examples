@@ -3,8 +3,8 @@
 
 # Connection parameters
 api_url: "https://localhost:6443"
-cluster_auth_user: ""
-cluster_auth_password: ""
+cluster_auth_user: "admin"
+cluster_auth_password: ":SWmxl>uE|w9"
 
 # Namespace name
 ns_name: "demo-ns"
